@@ -1,4 +1,6 @@
-print("Ahoj světe")
+import streamlit as st
+st.write("Jeden řádek")
+
 
 
 
